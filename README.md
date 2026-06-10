@@ -185,7 +185,7 @@ public class Vijayabaskar {
 | 🔐 | **Google Cybersecurity** — Google | Python, MySQL, Linux system management · Completed January 2024 |
 | 🗄️ | **Oracle Database** — LinkedIn Learning | SQL proficiency & database structuring · Completed October 2023 |
 | 📊 | **Data Science with Python** — Verzeo | ML basics, data handling, core Python · Completed December 2022 |
-| ⚡ | **CGPA 8.45** — Kongu Engineering College | B.E. Electrical & Electronics Engineering (2024–2028) |
+| ⚡ | **CGPA 9.01** — Kongu Engineering College | B.E. Electrical & Electronics Engineering (2024–2028) |
 | 📝 | **HSC 88.17%** — Karur Vetri Vinayaka Matric HSS | Class XII Board Exam, 2024 |
 | 🏫 | **SSLC 93%** — Government Boys HSS, Mohanur | Class X Board Exam, 2022 |
 
@@ -200,7 +200,7 @@ public class Vijayabaskar {
 
 | Degree | Institution | Period | Score |
 |:-------|:-----------|:-------|:------|
-| B.E. Electrical & Electronics Engineering | Kongu Engineering College, Erode | 2024 – 2028 | CGPA 8.45 |
+| B.E. Electrical & Electronics Engineering | Kongu Engineering College, Erode | 2024 – 2028 | CGPA 9.01 |
 | HSC (Class XII) | Karur Vetri Vinayaka Matric HSS, Karur | 2023 – 2024 | 88.17% |
 | SSLC (Class X) | Govt. Boys HSS, Mohanur | 2021 – 2022 | 93% |
 
